@@ -2,7 +2,7 @@
     {
         "name": "Sarah Jane",
         "email": "sarah@jane.com",
-        "pic":":"//images//profile.png",
+        "pic":":"\/images/profile.png",
         "time": 1680184644466,
         "loc": "London, UK",
         "ip": "IP address",
