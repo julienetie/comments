@@ -2,7 +2,7 @@
     {
         "name": "Sarah Jane",
         "email": "sarah@jane.com",
-        "pic":"\/images\/profile.png",
+        "pic":"https://pbs.twimg.com/profile_images/1314324381804290048/pGMwnRrh_400x400.jpg",
         "time": 1680184644466,
         "loc": "London, UK",
         "ip": "IP address",
@@ -12,7 +12,7 @@
     {
         "name": "Sarah Jane",
         "email": "sarah@jane.com",
-        "pic":"url to picture",
+        "pic":"https://pbs.twimg.com/profile_images/1551594698409648129/gHZ8lE9n_400x400.jpg",
         "time": 1680184644466,
         "loc": "London, UK",
         "ip": "IP address",
